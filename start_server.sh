@@ -1,0 +1,1 @@
+pm2 start /srv/www/techo-project/server/app.js
